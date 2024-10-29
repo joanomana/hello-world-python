@@ -30,10 +30,7 @@ print(type(fruits))
 colors = ("red", "blue", "green")
 print(colors)
 print(type(colors))
-
 #set
 animals = {"dog", "cat", "bird"}
 print(animals)
 print(type(animals))
-###
-mundo="Tierra"
